@@ -1,12 +1,13 @@
 Password-Strength-Analyze!
+
 A simple and interactive web application built with Python and Streamlit to analyze the strength of your passwords in real-time. This tool provides instant feedback and suggestions to help you create more secure and robust passwords, protecting your digital life.
 
 ✨ Features
 Real-Time Analysis: Get immediate feedback as you type your password.
 
-Strength Scoring: See a clear, color-coded score (e.g., weak, medium, strong) based on password complexity.
+Strength Scoring: You will see a clear, color-coded score (e.g., weak, medium, strong) based on password complexity.
 
-Actionable Feedback: Receive specific suggestions on how to improve your password's strength, such as adding special characters, numbers, or a mix of cases.
+Actionable Feedback: Receive specific suggestions on how to strengthen your password, such as adding special characters, numbers, or a mix of cases.
 
 User-Friendly Interface: The application is designed for simplicity and ease of use, thanks to the Streamlit framework.
 
